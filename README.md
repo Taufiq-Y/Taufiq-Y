@@ -19,7 +19,7 @@
 
 - ✌ Get My Resume Here..!! [https://drive.google.com/file/d/1AuFnGrMlzxxrrKEl6tUcvTzph39Ua9LF/view](https://drive.google.com/file/d/1AuFnGrMlzxxrrKEl6tUcvTzph39Ua9LF/view)
 
-- ⚡ Fun fact **coffee + mechanical keyboard = magic <code />**
+- ⚡ Fun fact **coffee + mechanical keyboard = magic <dev />**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
