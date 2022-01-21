@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufiq-y&label=Profile%20views&color=0e75b6&style=flat" alt="taufiq-y" /> </p>
 
-- 🔭 I’m currently **working on everything..**
+- 🔭 I’m currently **working on nothing..**
 
 - 🌱 I’m currently **learning everything..🤣**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://muhammeds-taufiq-portfolio.netlify.app/](https://muhammeds-taufiq-portfolio.netlify.app/)
 
-- 💬 Ask me about how to brew dev's coffee **how to brew dev's coffee**
+- 💬 Ask me about **how to brew dev's coffee ☕**
 
 - 📫 How to reach me **mohammedtaufiq60@gmail.com**
 
@@ -35,7 +35,7 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiq-y&show_icons=true&locale=en&layout=compact" alt="taufiq-y" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taufiq-y&show_icons=true&locale=en" alt="taufiq-y" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=taufiq-y&show_icons=true&locale=en" alt="taufiq-y" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taufiq-y&" alt="taufiq-y" /></p>
 
