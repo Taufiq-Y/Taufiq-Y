@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufiq-y&label=Profile%20views&color=0e75b6&style=flat" alt="taufiq-y" /> </p>
 
-- 🔭 I’m currently **working on nothing..**
+- 🔭 I’m currently **working on nothing 😎..**
 
-- 🌱 I’m currently **learning everything..🤣**
+- 🌱 I’m currently **learning everything🤣..**
 
 - 👯 I’m looking to collaborate **with open source developers**
 
-- 🤝 2022 Goals, **to crack Fullstack dev job**
+- 🤝 2022 Goals, **to develop cryptocurrency webs..**
 
 - 👨‍💻 All of my projects are available at [https://muhammeds-taufiq-portfolio.netlify.app/](https://muhammeds-taufiq-portfolio.netlify.app/)
 
@@ -32,7 +32,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mohammedtaufiq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mohammedtaufiq" /></a></p><br><br>
-<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiq-y&show_icons=true&locale=en&layout=compact" alt="taufiq-y" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=taufiq-y&show_icons=true&locale=en" alt="taufiq-y" /></p>
