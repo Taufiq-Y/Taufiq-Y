@@ -3,7 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufiq-y&label=Profile%20views&color=0e75b6&style=flat" alt="taufiq-y" /> </p>
 
+- 🔭 I’m currently **working on everything..**
+
+- 🌱 I’m currently **learning everything..🤣**
+
+- 👯 I’m looking to collaborate **with open source developers**
+
+- 🤝 2022 Goals, **to crack Fullstack dev job**
+
+- 👨‍💻 All of my projects are available at [https://muhammeds-taufiq-portfolio.netlify.app/](https://muhammeds-taufiq-portfolio.netlify.app/)
+
+- 💬 Ask me about how to brew dev's coffee **how to brew dev's coffee**
+
 - 📫 How to reach me **mohammedtaufiq60@gmail.com**
+
+- ✌ Get My Resume Here..!! [https://drive.google.com/file/d/1AuFnGrMlzxxrrKEl6tUcvTzph39Ua9LF/view](https://drive.google.com/file/d/1AuFnGrMlzxxrrKEl6tUcvTzph39Ua9LF/view)
 
 - ⚡ Fun fact **coffee + mechanical keyboard = magic <code />**
 
