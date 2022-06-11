@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohammed Taufiq Y</h1>
+<h1 align="center">Hi 👋, I'm MUhammed Taufiq Y</h1>
 <h3 align="center">A passionate Fullstack Developer from Chennai, India. with Average problem-solving, Passionate about coding and enjoying in getting knowledge of technology and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufiq-y&label=Profile%20views&color=0e75b6&style=flat" alt="taufiq-y" /> </p>
 
-- 🔭 I’m currently **working on nothing 😎..**
+- 🔭 I’m currently **working on Solidity😎..**
 
-- 🌱 I’m currently **learning everything🤣..**
+- 🌱 I’m currently **learning WEB 3.0🤣..**
 
 - 👯 I’m looking to collaborate **with open source developers**
 
